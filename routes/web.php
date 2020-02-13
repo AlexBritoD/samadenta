@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('admin.index');
+    return view('landingpage.index');
 });
 Route::get('/perfil', function () {
     return view('admin.perfil');
