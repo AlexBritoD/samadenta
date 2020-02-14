@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+<nav class="navbar  wapper fixed navbar-expand-sm bg-dark navbar-dark">
 <a class="navbar-brand" href="#">
     <img src="admin/images/logo/logo.png" alt="Logo" style="width:40px;">
   </a>
