@@ -5,10 +5,10 @@
   <!-- Links -->
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" href="#">Link 1</a>
+      <a class="nav-link" href="#Conozca1">Link 1</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Link 2</a>
+      <a class="nav-link" href="#Conozca2">Link 2</a>
     </li>
 
     <!-- Dropdown -->
@@ -17,9 +17,9 @@
         Dropdown link
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">Link 1</a>
-        <a class="dropdown-item" href="#">Link 2</a>
-        <a class="dropdown-item" href="#">Link 3</a>
+        <a class="dropdown-item" href="#Conozca3">Link 1</a>
+        <a class="dropdown-item" href="#Conozca4">Link 2</a>
+        <a class="dropdown-item" href="#Conozca1">Link 3</a>
       </div>
     </li>
   </ul>

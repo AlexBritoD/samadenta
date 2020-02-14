@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html class="loading" lang="en" data-textdirection="ltr">
+<html>
 
 <head>
     @include("landingpage.includes.head")
 </head>
 
-<body class="block statistic">
+<body class="">
     @include("landingpage.includes.nav")
     @yield("contenido")
     @include("landingpage.includes.footer")
